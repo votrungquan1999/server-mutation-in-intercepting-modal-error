@@ -24,6 +24,8 @@ pnpm dev
 
 Open [http://localhost:3000/home](http://localhost:3000/home) with your browser to see the example.
 
+or visit [https://server-mutation-in-intercepting-modal-error-sybd.vercel.app/home](https://server-mutation-in-intercepting-modal-error-sybd.vercel.app/home) to see the example.
+
 ## Screenshots
 
 ![home page](public/screenshot1.png)
